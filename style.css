@@ -1,0 +1,24 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#image {
+    background-color: cornflowerblue;
+    border: darkblue;
+    border-width: 10px;
+}
+
+#bio {
+    font-style: italic;
+    color: red;
+}
+
+#contact {
+    text-align: right;
+}
